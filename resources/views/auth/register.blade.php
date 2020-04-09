@@ -38,6 +38,7 @@
                                     <option  value="1">Human Resource</option>
                                     <option  value="2">Team Leader</option>
                                     <option  value="3">Employee</option>
+                                    <option  value="4">CEO</option>
                                 </select>
                                 @if ($errors->has('role'))
                                     <span class="help-block">
