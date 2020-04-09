@@ -1,0 +1,33 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.distance{
+    padding-top: 2rem;
+}
+.space{
+	padding-top: 1.5rem;
+}
+.dist{
+	margin-left: 2rem;
+}
+.upper{
+	margin-top: 3rem;
+	padding-top: 3rem;
+}
+.distdouble{
+	margin-left: 4rem;
+}
+.floating{
+	display: inline;
+}
+.padd{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+div.align-padding-text {
+	padding-top: 20rem !important;
+	
+}
